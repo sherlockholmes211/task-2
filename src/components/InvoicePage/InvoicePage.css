@@ -1,0 +1,12 @@
+.invoice-page-container{
+    padding: 24px;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 24px;
+}
